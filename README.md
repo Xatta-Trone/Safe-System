@@ -15,7 +15,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 
 ## Table of contents
 
-- [Recent U.S. SSA Studies and Tools](#recent-u-s-ssa-studies-and-tools)
+- [Recent U.S. SSA Studies and Tools](#recent-us-ssa-studies-and-tools)
 - [USDOT](#usdot)
 - [ITE](#ite)
 - [FHWA](#fhwa)
