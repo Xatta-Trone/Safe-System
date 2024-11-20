@@ -31,7 +31,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [RFP](#rfp)
 - [RIP](#rip)
 
-### This is an updated version of [Safe System Approach Repository](https://github.com/subasish/Safe-System)  of Dr. Subasish Das
+### This is an updated version of the [Safe System Approach Repository](https://github.com/subasish/Safe-System) by Dr. Subasish Das
 
 **We need your contributions!**
 
