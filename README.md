@@ -15,6 +15,7 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 
 ## Table of contents
 
+- [Recent U.S. SSA Studies and Tools](#recent-u-s-ssa-studies-and-tools)
 - [USDOT](#usdot)
 - [ITE](#ite)
 - [FHWA](#fhwa)
@@ -30,12 +31,31 @@ The 2022 National Roadway adopted `Safe System Approach` (`SSA`), which is a dec
 - [RFP](#rfp)
 - [RIP](#rip)
 
+### This is an updated version of [Safe System Approach Repository](https://github.com/subasish/Safe-System)  of Dr. Subasish Das
 
 **We need your contributions!**
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
 [Note" ❤️: Noteworthy; 🚩: Non-peer reviewed (use with caution); 🏁: Extended Abstract]
+
+### Recent U.S. SSA Studies and Tools
+- [Public Roads Special Edition on the Safe System Approach](https://highways.dot.gov/public-roads/winter-2022) (2022) ❤️
+- [Driving FoRRwD to a Safe System](https://highways.dot.gov/safety/rwd/forrrwd/forrrwd-resources) (2024) ❤️
+- [STEP Countermeasures to Advance Vision Zero](https://highways.dot.gov/safety/zero-deaths/safe-transportation-every-pedestrian) (2022) ❤️
+- Safe System Alignment Frameworks
+    - [Overview Flyer](https://highways.dot.gov/sites/fhwa.dot.gov/files/2024-04/FS_FHWA_SSA_Frameworks_ACCESSIBLE.pdf) (2024) ❤️
+    - [Safe System Project-based Alignment Framework](https://highways.dot.gov/safety/zero-deaths/safe-system-project-based-alignment-framework) (2024) ❤️
+    - [Safe System Policy-based Alignment Framework](https://highways.dot.gov/safety/zero-deaths/safe-system-policy-based-alignment-framework) (2024) ❤️
+- [Safe System Roadway Design Hierarchy](https://highways.dot.gov/sites/fhwa.dot.gov/files/2024-01/Safe_System_Roadway_Design_Hierarchy.pdf) (2024) ❤️
+- [Safe System Approach for the Urban Core](https://highways.dot.gov/safety/zero-deaths/safe-system-approach-urban-core-informational-report) (2023) ❤️
+- [Safe System Approach for Speed Management](https://highways.dot.gov/sites/fhwa.dot.gov/files/Safe_System_Approach_for_Speed_Management.pdf) (2023) ❤️
+- [Safe System-based Framework and Analytical Methodology for Assessing Intersections](https://highways.dot.gov/safety/intersection-safety/safe-system-intersections) (2021) ❤️
+- [Safe System Strategic Plan](https://highways.dot.gov/sites/fhwa.dot.gov/files/2022-06/FHWA-SA-21-088_Safe_System_Strategic_Plan.pdf) (2022) ❤️
+- [Primer on Safe System Approach for Pedestrians and Bicyclists](https://highways.dot.gov/safety/pedestrian-bicyclist/safety-tools/tools-diagnose-and-solve-problem) (2024) ❤️
+- [Integrating the Safe System Approach with the Highway Safety Improvement Program](https://highways.dot.gov/safety/hsip) (2024) ❤️
+- [Advancing Implementation of the SSA in the SHSP/HSIP](https://highways.dot.gov/safety/hsip/shsp/shsp-noteworthy-practices) (2024) ❤️
+
 
 ### USDOT
 - **National Roadway Safety Strategy** (2022) [[pdf]](https://github.com/subasish/safesystems/blob/main/Documents/2022%20USDOT%20SS.pdf) [[website]](https://www.transportation.gov/NRSS) `transportation secretary` ❤️
